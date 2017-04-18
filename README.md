@@ -6,3 +6,7 @@ También, se puede crear el perfil de tensión de la RDU una ves corrido el fluj
 ## Instalación
 
 Para instalar R.E.D, utilice su programa preferido de conectividad para la calculadora (TI-Connect, Tilp, etc) y agregue el archivo de grupo red.89g. Se creará automaticamente una nueva carpeta llamada “RED” que contiene los diversos programas y funciones que utiliza R.E.D. Estos estarán archivados y es necesario que permanezcan de tal forma, pues una operación de “reset” a la RAM provocaría la pérdida del programa o función que no este archivado y por tanto la inoperabilidad del paquete R.E.D. De ocurrir esta situación, será necesario volver a copiar el archivo eliminado o re-instalar el paquete de programas.
+
+## Edición
+
+Clonar el repositorio, realizar la instalación en la calculadora y editar los archivos con las herramientas incorporadas.
