@@ -1,3 +1,5 @@
+![App Image](https://raw.githubusercontent.com/lgg42/r.e.d/master/img/ti89red.gif)
+
 ## Introducción
 
 Redes Eléctricas de Distribución (R.E.D) tiene carácter docente y se recomienda su uso a estudiantes que quieran comprobar sus resultados de problemas realizados a mano; también es apto para comprobar como influyen diversos factores en una red de distribución urbana (RDU), como puede ser la instalacion de bancos de condensadores, cambio de calibre a los alimentadores, cambio del nivel de tensión, etc. El objetivo principal del programa es resolver flujos de cargas en RDU's por el metodo de Haque, obteneniendo los resultados de: tensiones en los nodos (o postes) y caídas de tensión, pérdidas, potencias en envio y recibo por tramos. Se puede correr el flujo a partir de los datos de las demandas por poste o teniendo las capacidades instaladas de los transformadores y estimando la demanda mediante el método de Ardvinson, o finalmente, usando la combinación de estos dos métodos. 
